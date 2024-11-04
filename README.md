@@ -1,5 +1,3 @@
-THIS JUST FOR LEARNING PURPOSE
+Documenting my personal journey of learning MERN stack.
 
-
-I am just exploring the things. :]]]
-
+Staring with JS, and seeing where that takes me. 
